@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Rendang</folder>
+	<filename>5-cara-memasak-rendang-dari-rendang-sapi-hingga-rendang-jengkol.jpeg</filename>
+	<path>E:\KULIAH\SEMESTER 8\Program Bangkit\Proyek\Food-Detection-w-Machine-Learning\train\Rendang\5-cara-memasak-rendang-dari-rendang-sapi-hingga-rendang-jengkol.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>540</width>
+		<height>270</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rendang</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>183</xmin>
+			<ymin>70</ymin>
+			<xmax>430</xmax>
+			<ymax>239</ymax>
+		</bndbox>
+	</object>
+</annotation>

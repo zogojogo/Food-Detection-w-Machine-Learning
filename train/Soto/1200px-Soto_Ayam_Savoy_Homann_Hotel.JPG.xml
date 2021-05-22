@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Soto</folder>
+	<filename>1200px-Soto_Ayam_Savoy_Homann_Hotel.JPG.jpg</filename>
+	<path>E:\KULIAH\SEMESTER 8\Program Bangkit\Proyek\Food-Detection-w-Machine-Learning\train\Soto\1200px-Soto_Ayam_Savoy_Homann_Hotel.JPG.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>1050</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>soto</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>260</xmin>
+			<ymin>227</ymin>
+			<xmax>899</xmax>
+			<ymax>936</ymax>
+		</bndbox>
+	</object>
+</annotation>

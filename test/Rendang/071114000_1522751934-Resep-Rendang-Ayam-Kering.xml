@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Rendang</folder>
+	<filename>071114000_1522751934-Resep-Rendang-Ayam-Kering.jpg</filename>
+	<path>E:\KULIAH\SEMESTER 8\Program Bangkit\Proyek\Food-Detection-w-Machine-Learning\test\Rendang\071114000_1522751934-Resep-Rendang-Ayam-Kering.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rendang</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>12</xmin>
+			<ymin>85</ymin>
+			<xmax>607</xmax>
+			<ymax>455</ymax>
+		</bndbox>
+	</object>
+</annotation>

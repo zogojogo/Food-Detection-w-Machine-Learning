@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Rendang</folder>
+	<filename>images453.jpg</filename>
+	<path>E:\KULIAH\SEMESTER 8\Program Bangkit\Proyek\Food-Detection-w-Machine-Learning\train\Rendang\images453.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>275</width>
+		<height>183</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rendang</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>21</xmin>
+			<ymin>12</ymin>
+			<xmax>257</xmax>
+			<ymax>173</ymax>
+		</bndbox>
+	</object>
+</annotation>

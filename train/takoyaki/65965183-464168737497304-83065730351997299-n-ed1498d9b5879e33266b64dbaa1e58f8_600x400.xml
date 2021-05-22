@@ -1,0 +1,26 @@
+<annotation>
+	<folder>takoyaki</folder>
+	<filename>65965183-464168737497304-83065730351997299-n-ed1498d9b5879e33266b64dbaa1e58f8_600x400.jpg</filename>
+	<path>E:\KULIAH\SEMESTER 8\Program Bangkit\Proyek\Food-Detection-w-Machine-Learning\train\takoyaki\65965183-464168737497304-83065730351997299-n-ed1498d9b5879e33266b64dbaa1e58f8_600x400.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>takoyaki</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>32</ymin>
+			<xmax>483</xmax>
+			<ymax>358</ymax>
+		</bndbox>
+	</object>
+</annotation>

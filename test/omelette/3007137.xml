@@ -1,0 +1,26 @@
+<annotation>
+	<folder>omelette</folder>
+	<filename>3007137.jpg</filename>
+	<path>E:\KULIAH\SEMESTER 8\Program Bangkit\Proyek\Food-Detection-w-Machine-Learning\test\omelette\3007137.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>omelette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>58</xmin>
+			<ymin>18</ymin>
+			<xmax>480</xmax>
+			<ymax>302</ymax>
+		</bndbox>
+	</object>
+</annotation>

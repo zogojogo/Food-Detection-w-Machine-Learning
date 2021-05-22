@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ramen</folder>
+	<filename>3782534.jpg</filename>
+	<path>E:\KULIAH\SEMESTER 8\Program Bangkit\Proyek\Food-Detection-w-Machine-Learning\train\ramen\3782534.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ramen</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>29</xmin>
+			<ymin>74</ymin>
+			<xmax>506</xmax>
+			<ymax>476</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Sate</folder>
+	<filename>20210117195011-1-ilustrasi-sate-padang-003-tantri-setyorini.jpg</filename>
+	<path>E:\KULIAH\SEMESTER 8\Program Bangkit\Proyek\Food-Detection-w-Machine-Learning\train\Sate\20210117195011-1-ilustrasi-sate-padang-003-tantri-setyorini.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>670</width>
+		<height>502</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>156</xmin>
+			<ymin>98</ymin>
+			<xmax>619</xmax>
+			<ymax>477</ymax>
+		</bndbox>
+	</object>
+</annotation>

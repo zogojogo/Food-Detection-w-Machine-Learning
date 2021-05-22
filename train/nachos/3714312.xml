@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nachos</folder>
+	<filename>3714312.jpg</filename>
+	<path>E:\KULIAH\SEMESTER 8\Program Bangkit\Proyek\Food-Detection-w-Machine-Learning\train\nachos\3714312.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>288</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nachos</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>170</xmin>
+			<ymin>25</ymin>
+			<xmax>388</xmax>
+			<ymax>241</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pho</folder>
+	<filename>3040157.jpg</filename>
+	<path>E:\KULIAH\SEMESTER 8\Program Bangkit\Proyek\Food-Detection-w-Machine-Learning\train\pho\3040157.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pho</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>14</ymin>
+			<xmax>509</xmax>
+			<ymax>504</ymax>
+		</bndbox>
+	</object>
+</annotation>

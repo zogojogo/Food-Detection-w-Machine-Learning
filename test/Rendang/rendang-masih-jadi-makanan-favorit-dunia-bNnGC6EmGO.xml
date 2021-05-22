@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Rendang</folder>
+	<filename>rendang-masih-jadi-makanan-favorit-dunia-bNnGC6EmGO.jpg</filename>
+	<path>E:\KULIAH\SEMESTER 8\Program Bangkit\Proyek\Food-Detection-w-Machine-Learning\test\Rendang\rendang-masih-jadi-makanan-favorit-dunia-bNnGC6EmGO.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>495</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rendang</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>176</xmin>
+			<ymin>94</ymin>
+			<xmax>596</xmax>
+			<ymax>328</ymax>
+		</bndbox>
+	</object>
+</annotation>

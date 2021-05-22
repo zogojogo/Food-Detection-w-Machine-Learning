@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Sate</folder>
+	<filename>sate-batibul-tegal.jpg</filename>
+	<path>E:\KULIAH\SEMESTER 8\Program Bangkit\Proyek\Food-Detection-w-Machine-Learning\test\Sate\sate-batibul-tegal.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>728</width>
+		<height>492</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>26</xmin>
+			<ymin>226</ymin>
+			<xmax>454</xmax>
+			<ymax>376</ymax>
+		</bndbox>
+	</object>
+</annotation>

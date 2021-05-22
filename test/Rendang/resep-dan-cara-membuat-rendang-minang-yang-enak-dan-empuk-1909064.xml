@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Rendang</folder>
+	<filename>resep-dan-cara-membuat-rendang-minang-yang-enak-dan-empuk-1909064.jpg</filename>
+	<path>E:\KULIAH\SEMESTER 8\Program Bangkit\Proyek\Food-Detection-w-Machine-Learning\test\Rendang\resep-dan-cara-membuat-rendang-minang-yang-enak-dan-empuk-1909064.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rendang</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>111</xmin>
+			<ymin>38</ymin>
+			<xmax>450</xmax>
+			<ymax>258</ymax>
+		</bndbox>
+	</object>
+</annotation>

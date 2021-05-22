@@ -1,0 +1,26 @@
+<annotation>
+	<folder>spaghetti_carbonara</folder>
+	<filename>3567872.jpg</filename>
+	<path>E:\KULIAH\SEMESTER 8\Program Bangkit\Proyek\Food-Detection-w-Machine-Learning\train\spaghetti_carbonara\3567872.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>spaghetti_carbonara</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>65</xmin>
+			<ymin>36</ymin>
+			<xmax>487</xmax>
+			<ymax>390</ymax>
+		</bndbox>
+	</object>
+</annotation>

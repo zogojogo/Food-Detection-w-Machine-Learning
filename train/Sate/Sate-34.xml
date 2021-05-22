@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Sate</folder>
+	<filename>Sate-34.jpg</filename>
+	<path>E:\KULIAH\SEMESTER 8\Program Bangkit\Proyek\Food-Detection-w-Machine-Learning\train\Sate\Sate-34.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>311</width>
+		<height>162</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sate</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>22</xmin>
+			<ymin>3</ymin>
+			<xmax>311</xmax>
+			<ymax>159</ymax>
+		</bndbox>
+	</object>
+</annotation>

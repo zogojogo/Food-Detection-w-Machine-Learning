@@ -1,0 +1,26 @@
+<annotation>
+	<folder>onion_rings</folder>
+	<filename>3022006.jpg</filename>
+	<path>E:\KULIAH\SEMESTER 8\Program Bangkit\Proyek\Food-Detection-w-Machine-Learning\test\onion_rings\3022006.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>341</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>onion_rings</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>7</ymin>
+			<xmax>445</xmax>
+			<ymax>256</ymax>
+		</bndbox>
+	</object>
+</annotation>

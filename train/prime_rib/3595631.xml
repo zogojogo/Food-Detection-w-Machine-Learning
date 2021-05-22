@@ -1,0 +1,26 @@
+<annotation>
+	<folder>prime_rib</folder>
+	<filename>3595631.jpg</filename>
+	<path>E:\KULIAH\SEMESTER 8\Program Bangkit\Proyek\Food-Detection-w-Machine-Learning\train\prime_rib\3595631.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>288</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>prime_rib</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>67</xmin>
+			<ymin>11</ymin>
+			<xmax>438</xmax>
+			<ymax>250</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Soto</folder>
+	<filename>images103.jpg</filename>
+	<path>E:\KULIAH\SEMESTER 8\Program Bangkit\Proyek\Food-Detection-w-Machine-Learning\train\Soto\images103.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>313</width>
+		<height>161</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>soto</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>69</xmin>
+			<ymin>9</ymin>
+			<xmax>260</xmax>
+			<ymax>161</ymax>
+		</bndbox>
+	</object>
+</annotation>

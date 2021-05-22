@@ -1,0 +1,26 @@
+<annotation>
+	<folder>peking_duck</folder>
+	<filename>2949983.jpg</filename>
+	<path>E:\KULIAH\SEMESTER 8\Program Bangkit\Proyek\Food-Detection-w-Machine-Learning\test\peking_duck\2949983.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>peking_duck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>71</ymin>
+			<xmax>500</xmax>
+			<ymax>392</ymax>
+		</bndbox>
+	</object>
+</annotation>

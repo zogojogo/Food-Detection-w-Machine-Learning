@@ -1,0 +1,26 @@
+<annotation>
+	<folder>risotto</folder>
+	<filename>3138585.jpg</filename>
+	<path>E:\KULIAH\SEMESTER 8\Program Bangkit\Proyek\Food-Detection-w-Machine-Learning\train\risotto\3138585.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>508</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>risotto</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>38</ymin>
+			<xmax>511</xmax>
+			<ymax>508</ymax>
+		</bndbox>
+	</object>
+</annotation>

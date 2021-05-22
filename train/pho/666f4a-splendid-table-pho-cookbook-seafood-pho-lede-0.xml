@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pho</folder>
+	<filename>666f4a-splendid-table-pho-cookbook-seafood-pho-lede-0.jpg</filename>
+	<path>E:\KULIAH\SEMESTER 8\Program Bangkit\Proyek\Food-Detection-w-Machine-Learning\train\pho\666f4a-splendid-table-pho-cookbook-seafood-pho-lede-0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2000</width>
+		<height>1143</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pho</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>417</xmin>
+			<ymin>18</ymin>
+			<xmax>1984</xmax>
+			<ymax>1129</ymax>
+		</bndbox>
+	</object>
+</annotation>

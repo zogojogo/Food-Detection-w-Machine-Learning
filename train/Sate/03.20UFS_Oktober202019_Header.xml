@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Sate</folder>
+	<filename>03.20UFS_Oktober202019_Header.jpg</filename>
+	<path>E:\KULIAH\SEMESTER 8\Program Bangkit\Proyek\Food-Detection-w-Machine-Learning\train\Sate\03.20UFS_Oktober202019_Header.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>667</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>46</xmin>
+			<ymin>8</ymin>
+			<xmax>979</xmax>
+			<ymax>593</ymax>
+		</bndbox>
+	</object>
+</annotation>

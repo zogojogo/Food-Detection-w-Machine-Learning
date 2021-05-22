@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pizza</folder>
+	<filename>best-pizza-dough-recipe.jpg</filename>
+	<path>E:\KULIAH\SEMESTER 8\Program Bangkit\Proyek\Food-Detection-w-Machine-Learning\train\pizza\best-pizza-dough-recipe.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>680</width>
+		<height>454</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pizza</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>110</xmin>
+			<ymin>12</ymin>
+			<xmax>680</xmax>
+			<ymax>433</ymax>
+		</bndbox>
+	</object>
+</annotation>

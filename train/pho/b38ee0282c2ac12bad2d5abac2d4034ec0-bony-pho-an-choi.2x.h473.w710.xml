@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pho</folder>
+	<filename>b38ee0282c2ac12bad2d5abac2d4034ec0-bony-pho-an-choi.2x.h473.w710.jpg</filename>
+	<path>E:\KULIAH\SEMESTER 8\Program Bangkit\Proyek\Food-Detection-w-Machine-Learning\train\pho\b38ee0282c2ac12bad2d5abac2d4034ec0-bony-pho-an-choi.2x.h473.w710.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>719</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pho</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>285</xmin>
+			<ymin>12</ymin>
+			<xmax>1068</xmax>
+			<ymax>719</ymax>
+		</bndbox>
+	</object>
+</annotation>

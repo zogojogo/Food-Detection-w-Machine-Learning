@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sushi</folder>
+	<filename>2693258.jpg</filename>
+	<path>E:\KULIAH\SEMESTER 8\Program Bangkit\Proyek\Food-Detection-w-Machine-Learning\test\sushi\2693258.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>384</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sushi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>133</ymin>
+			<xmax>381</xmax>
+			<ymax>420</ymax>
+		</bndbox>
+	</object>
+</annotation>

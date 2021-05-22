@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sashimi</folder>
+	<filename>2926641.jpg</filename>
+	<path>E:\KULIAH\SEMESTER 8\Program Bangkit\Proyek\Food-Detection-w-Machine-Learning\test\sashimi\2926641.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sashimi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>59</ymin>
+			<xmax>487</xmax>
+			<ymax>393</ymax>
+		</bndbox>
+	</object>
+</annotation>

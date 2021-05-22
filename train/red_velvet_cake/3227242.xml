@@ -1,0 +1,26 @@
+<annotation>
+	<folder>red_velvet_cake</folder>
+	<filename>3227242.jpg</filename>
+	<path>E:\KULIAH\SEMESTER 8\Program Bangkit\Proyek\Food-Detection-w-Machine-Learning\train\red_velvet_cake\3227242.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>red_velvet_cake</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>56</xmin>
+			<ymin>14</ymin>
+			<xmax>457</xmax>
+			<ymax>457</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Soto</folder>
+	<filename>43769-soto-ayam.jpg</filename>
+	<path>E:\KULIAH\SEMESTER 8\Program Bangkit\Proyek\Food-Detection-w-Machine-Learning\train\Soto\43769-soto-ayam.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>970</width>
+		<height>544</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>soto</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>101</xmin>
+			<ymin>4</ymin>
+			<xmax>884</xmax>
+			<ymax>544</ymax>
+		</bndbox>
+	</object>
+</annotation>

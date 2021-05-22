@@ -1,0 +1,26 @@
+<annotation>
+	<folder>spaghetti_bolognese</folder>
+	<filename>3669898.jpg</filename>
+	<path>E:\KULIAH\SEMESTER 8\Program Bangkit\Proyek\Food-Detection-w-Machine-Learning\train\spaghetti_bolognese\3669898.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>289</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>spaghetti_bolognese</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>3</ymin>
+			<xmax>498</xmax>
+			<ymax>286</ymax>
+		</bndbox>
+	</object>
+</annotation>

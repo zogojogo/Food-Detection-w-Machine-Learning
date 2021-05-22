@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tacos</folder>
+	<filename>3039930.jpg</filename>
+	<path>E:\KULIAH\SEMESTER 8\Program Bangkit\Proyek\Food-Detection-w-Machine-Learning\test\tacos\3039930.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tacos</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>21</xmin>
+			<ymin>212</ymin>
+			<xmax>488</xmax>
+			<ymax>479</ymax>
+		</bndbox>
+	</object>
+</annotation>

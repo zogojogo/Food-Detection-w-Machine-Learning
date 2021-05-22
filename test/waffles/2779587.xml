@@ -1,0 +1,26 @@
+<annotation>
+	<folder>waffles</folder>
+	<filename>2779587.jpg</filename>
+	<path>E:\KULIAH\SEMESTER 8\Program Bangkit\Proyek\Food-Detection-w-Machine-Learning\test\waffles\2779587.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>waffles</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>83</xmin>
+			<ymin>215</ymin>
+			<xmax>360</xmax>
+			<ymax>401</ymax>
+		</bndbox>
+	</object>
+</annotation>

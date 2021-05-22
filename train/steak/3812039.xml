@@ -1,0 +1,26 @@
+<annotation>
+	<folder>steak</folder>
+	<filename>3812039.jpg</filename>
+	<path>E:\KULIAH\SEMESTER 8\Program Bangkit\Proyek\Food-Detection-w-Machine-Learning\train\steak\3812039.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>steak</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>56</ymin>
+			<xmax>507</xmax>
+			<ymax>448</ymax>
+		</bndbox>
+	</object>
+</annotation>

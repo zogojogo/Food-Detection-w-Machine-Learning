@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tiramisu</folder>
+	<filename>3711095.jpg</filename>
+	<path>E:\KULIAH\SEMESTER 8\Program Bangkit\Proyek\Food-Detection-w-Machine-Learning\train\tiramisu\3711095.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tiramisu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>21</xmin>
+			<ymin>39</ymin>
+			<xmax>498</xmax>
+			<ymax>340</ymax>
+		</bndbox>
+	</object>
+</annotation>

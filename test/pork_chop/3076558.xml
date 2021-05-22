@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pork_chop</folder>
+	<filename>3076558.jpg</filename>
+	<path>E:\KULIAH\SEMESTER 8\Program Bangkit\Proyek\Food-Detection-w-Machine-Learning\test\pork_chop\3076558.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pork_chop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>23</ymin>
+			<xmax>507</xmax>
+			<ymax>449</ymax>
+		</bndbox>
+	</object>
+</annotation>
