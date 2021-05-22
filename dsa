@@ -1,0 +1,84 @@
+[33mcommit 097dedfc8553f47f049557d94b280d68b25a6daf[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: sulastambunan <sulastritambunan270500@gmail.com>
+Date:   Sat May 22 20:37:17 2021 +0700
+
+    Annotasi Dataset
+
+[33mcommit 4ea15664cda350f6f116f1e5194a2e794d4b02d2[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Author: Kristian Wilianto <kriswiliant@gmail.com>
+Date:   Tue May 18 16:54:21 2021 +0700
+
+    Edit data
+
+[33mcommit 1c101ee8c93647c90cc99170492e0de435bc4bfe[m
+Merge: 481b001 3f16192
+Author: Kristian Wilianto <kriswiliant@gmail.com>
+Date:   Mon May 17 22:04:03 2021 +0700
+
+    Merge branch 'main' of https://github.com/zogojogo/Food-Detection-w-Machine-Learning
+
+[33mcommit 481b001324756dc6d2a544af1299e024bc37ffc2[m
+Author: Kristian Wilianto <kriswiliant@gmail.com>
+Date:   Mon May 17 22:03:13 2021 +0700
+
+    Tambah Makanan Indo
+
+[33mcommit 3f161923649feb9ec5d887b102e696e69f200580[m
+Author: sulastambunan <66982223+sulastambunan@users.noreply.github.com>
+Date:   Mon May 17 20:34:56 2021 +0700
+
+    Tambah Dataset
+
+[33mcommit eaf6bf4a9f923d4896f679bef7de4bbe96240092[m
+Author: sulastambunan <66982223+sulastambunan@users.noreply.github.com>
+Date:   Mon May 17 20:33:06 2021 +0700
+
+    Tambah Dataset
+
+[33mcommit dccf2a4a49a9026d4cc43ac42975c4a05b40b048[m
+Author: sulastambunan <66982223+sulastambunan@users.noreply.github.com>
+Date:   Mon May 17 20:30:16 2021 +0700
+
+    Tambah Dataset
+
+[33mcommit fd3bb482a3c1f28f152a59bee9b3a0a013a8935c[m
+Author: sulastambunan <66982223+sulastambunan@users.noreply.github.com>
+Date:   Mon May 17 20:27:48 2021 +0700
+
+    Tambah Dataset
+
+[33mcommit 0b688c87dd52cdf8e9a4637eeec93ccd1094d61d[m
+Author: sulastambunan <66982223+sulastambunan@users.noreply.github.com>
+Date:   Mon May 17 20:24:13 2021 +0700
+
+    Add files via upload
+
+[33mcommit 1312a090990304f163b98a84b74d6ffd40e9da0e[m
+Author: Kristian Wilianto <kriswiliant@gmail.com>
+Date:   Mon May 17 17:26:29 2021 +0700
+
+    Tambah Dataset
+
+[33mcommit 602a3fda791555756623e25a72924e3c5cbd57dc[m
+Author: zogojogo <74968731+zogojogo@users.noreply.github.com>
+Date:   Tue May 11 06:17:31 2021 +0700
+
+    Delete Food_Detection_w_Faster_RCNN.ipynb
+
+[33mcommit d6967f53c2c6087482d4ddd3bd3bc7bf7d7a7a00[m
+Author: zogojogo <74968731+zogojogo@users.noreply.github.com>
+Date:   Tue May 11 06:17:08 2021 +0700
+
+    Created using Colaboratory
+
+[33mcommit fc1fe0a7a5f77be40ebd387077b271cafa19bec5[m
+Author: zogojogo <74968731+zogojogo@users.noreply.github.com>
+Date:   Tue May 11 03:56:16 2021 +0700
+
+    Created using Colaboratory
+
+[33mcommit ed8681034535f5da076e570e6ea022d256490009[m
+Author: zogojogo <74968731+zogojogo@users.noreply.github.com>
+Date:   Tue May 11 03:55:51 2021 +0700
+
+    Initial commit
