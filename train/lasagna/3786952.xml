@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>lasagna</folder>
+	<filename>3786952.jpg</filename>
+	<path>C:\Users\KristianW\Bangkit\Capstone\Food-Detection-w-Machine-Learning\train\lasagna\3786952.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lasagna</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>71</ymin>
+			<xmax>476</xmax>
+			<ymax>479</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>fish_and_chips</folder>
+	<filename>2988646.jpg</filename>
+	<path>C:\Users\KristianW\Bangkit\Capstone\Food-Detection-w-Machine-Learning\test\fish_and_chips\2988646.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>478</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish_and_chips</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>220</ymin>
+			<xmax>511</xmax>
+			<ymax>435</ymax>
+		</bndbox>
+	</object>
+</annotation>

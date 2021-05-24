@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>churros</folder>
+	<filename>3417598.jpg</filename>
+	<path>C:\Users\KristianW\Bangkit\Capstone\Food-Detection-w-Machine-Learning\train\churros\3417598.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>churros</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>136</ymin>
+			<xmax>360</xmax>
+			<ymax>364</ymax>
+		</bndbox>
+	</object>
+</annotation>

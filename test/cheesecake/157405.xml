@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>cheesecake</folder>
+	<filename>157405.jpg</filename>
+	<path>C:\Users\KristianW\Bangkit\Capstone\Food-Detection-w-Machine-Learning\test\cheesecake\157405.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>337</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cheesecake</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>195</xmin>
+			<ymin>6</ymin>
+			<xmax>392</xmax>
+			<ymax>244</ymax>
+		</bndbox>
+	</object>
+</annotation>

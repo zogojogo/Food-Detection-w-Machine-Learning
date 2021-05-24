@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>greek_salad</folder>
+	<filename>3677936.jpg</filename>
+	<path>C:\Users\KristianW\Bangkit\Capstone\Food-Detection-w-Machine-Learning\train\greek_salad\3677936.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>384</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>greek_salad</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>46</xmin>
+			<ymin>83</ymin>
+			<xmax>342</xmax>
+			<ymax>449</ymax>
+		</bndbox>
+	</object>
+</annotation>

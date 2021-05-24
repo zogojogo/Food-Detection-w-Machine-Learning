@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>french_toast</folder>
+	<filename>2734175.jpg</filename>
+	<path>C:\Users\KristianW\Bangkit\Capstone\Food-Detection-w-Machine-Learning\test\french_toast\2734175.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>french_toast</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>90</ymin>
+			<xmax>508</xmax>
+			<ymax>435</ymax>
+		</bndbox>
+	</object>
+</annotation>

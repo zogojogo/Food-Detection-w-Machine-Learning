@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ayam_geprek</folder>
+	<filename>bakmi_nyan_long_nasi_ayam_geprek_nyan_long_full01_gde5c80m.jpg</filename>
+	<path>C:\Users\KristianW\Bangkit\Capstone\Food-Detection-w-Machine-Learning\train\ayam_geprek\bakmi_nyan_long_nasi_ayam_geprek_nyan_long_full01_gde5c80m.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ayam_geprek</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>76</xmin>
+			<ymin>158</ymin>
+			<xmax>478</xmax>
+			<ymax>506</ymax>
+		</bndbox>
+	</object>
+</annotation>

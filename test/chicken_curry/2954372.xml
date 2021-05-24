@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>chicken_curry</folder>
+	<filename>2954372.jpg</filename>
+	<path>C:\Users\KristianW\Bangkit\Capstone\Food-Detection-w-Machine-Learning\test\chicken_curry\2954372.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chicken_curry</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>91</xmin>
+			<ymin>127</ymin>
+			<xmax>466</xmax>
+			<ymax>384</ymax>
+		</bndbox>
+	</object>
+</annotation>

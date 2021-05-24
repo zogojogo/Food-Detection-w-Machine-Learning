@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>frozen_yogurt</folder>
+	<filename>2418059.jpg</filename>
+	<path>C:\Users\KristianW\Bangkit\Capstone\Food-Detection-w-Machine-Learning\test\frozen_yogurt\2418059.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>308</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>frozen_yogurt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>147</xmin>
+			<ymin>4</ymin>
+			<xmax>417</xmax>
+			<ymax>238</ymax>
+		</bndbox>
+	</object>
+</annotation>

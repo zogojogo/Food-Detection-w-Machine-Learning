@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>cup_cakes</folder>
+	<filename>3685871.jpg</filename>
+	<path>C:\Users\KristianW\Bangkit\Capstone\Food-Detection-w-Machine-Learning\train\cup_cakes\3685871.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cup_cakes</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>51</ymin>
+			<xmax>512</xmax>
+			<ymax>502</ymax>
+		</bndbox>
+	</object>
+</annotation>

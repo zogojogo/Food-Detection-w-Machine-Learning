@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>grilled_salmon</folder>
+	<filename>3149788.jpg</filename>
+	<path>C:\Users\KristianW\Bangkit\Capstone\Food-Detection-w-Machine-Learning\test\grilled_salmon\3149788.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>grilled_salmon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>110</xmin>
+			<ymin>112</ymin>
+			<xmax>436</xmax>
+			<ymax>501</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>macaroni_and_cheese</folder>
+	<filename>3595262.jpg</filename>
+	<path>C:\Users\KristianW\Bangkit\Capstone\Food-Detection-w-Machine-Learning\train\macaroni_and_cheese\3595262.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>376</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>macaroni_and_cheese</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>48</xmin>
+			<ymin>82</ymin>
+			<xmax>325</xmax>
+			<ymax>302</ymax>
+		</bndbox>
+	</object>
+</annotation>

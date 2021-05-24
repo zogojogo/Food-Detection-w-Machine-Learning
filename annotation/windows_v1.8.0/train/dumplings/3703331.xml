@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>dumplings</folder>
+	<filename>3703331.jpg</filename>
+	<path>C:\Users\KristianW\Bangkit\Capstone\Food-Detection-w-Machine-Learning\train\dumplings\3703331.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dumplings</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>67</xmin>
+			<ymin>135</ymin>
+			<xmax>438</xmax>
+			<ymax>357</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>hamburger</folder>
+	<filename>3394148.jpg</filename>
+	<path>C:\Users\KristianW\Bangkit\Capstone\Food-Detection-w-Machine-Learning\train\hamburger\3394148.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hamburger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>8</ymin>
+			<xmax>371</xmax>
+			<ymax>327</ymax>
+		</bndbox>
+	</object>
+</annotation>

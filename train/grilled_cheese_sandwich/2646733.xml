@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>grilled_cheese_sandwich</folder>
+	<filename>2646733.jpg</filename>
+	<path>C:\Users\KristianW\Bangkit\Capstone\Food-Detection-w-Machine-Learning\train\grilled_cheese_sandwich\2646733.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>384</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>grilled_cheese_sandwich</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>123</ymin>
+			<xmax>273</xmax>
+			<ymax>381</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>garlic_bread</folder>
+	<filename>3288605.jpg</filename>
+	<path>C:\Users\KristianW\Bangkit\Capstone\Food-Detection-w-Machine-Learning\train\garlic_bread\3288605.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>289</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>garlic_bread</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>167</xmin>
+			<ymin>42</ymin>
+			<xmax>459</xmax>
+			<ymax>211</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>gyoza</folder>
+	<filename>3118722.jpg</filename>
+	<path>C:\Users\KristianW\Bangkit\Capstone\Food-Detection-w-Machine-Learning\test\gyoza\3118722.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gyoza</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>35</ymin>
+			<xmax>512</xmax>
+			<ymax>448</ymax>
+		</bndbox>
+	</object>
+</annotation>

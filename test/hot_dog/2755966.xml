@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>hot_dog</folder>
+	<filename>2755966.jpg</filename>
+	<path>C:\Users\KristianW\Bangkit\Capstone\Food-Detection-w-Machine-Learning\test\hot_dog\2755966.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hot_dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>58</xmin>
+			<ymin>50</ymin>
+			<xmax>464</xmax>
+			<ymax>457</ymax>
+		</bndbox>
+	</object>
+</annotation>
