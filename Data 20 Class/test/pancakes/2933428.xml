@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pancakes</folder>
+	<filename>2933428.jpg</filename>
+	<path>E:\KULIAH\SEMESTER 8\Program Bangkit\Proyek\Food-Detection-w-Machine-Learning\test\pancakes\2933428.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>288</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pancakes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>227</ymin>
+			<xmax>250</xmax>
+			<ymax>435</ymax>
+		</bndbox>
+	</object>
+</annotation>

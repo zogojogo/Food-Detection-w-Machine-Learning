@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Sate</folder>
+	<filename>okezone-week-end-menilik-sejarah-dan-keistimewaan-sate-madura-fxAFpHqWnw.jpg</filename>
+	<path>E:\KULIAH\SEMESTER 8\Program Bangkit\Proyek\Food-Detection-w-Machine-Learning\train\Sate\okezone-week-end-menilik-sejarah-dan-keistimewaan-sate-madura-fxAFpHqWnw.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>533</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>57</ymin>
+			<xmax>709</xmax>
+			<ymax>527</ymax>
+		</bndbox>
+	</object>
+</annotation>

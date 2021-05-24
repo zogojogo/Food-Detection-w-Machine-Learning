@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Soto</folder>
+	<filename>750xauto-10-resep-soto-khas-dari-berbagai-daerah-mudah-dan-enak-200602j.jpg</filename>
+	<path>E:\KULIAH\SEMESTER 8\Program Bangkit\Proyek\Food-Detection-w-Machine-Learning\train\Soto\750xauto-10-resep-soto-khas-dari-berbagai-daerah-mudah-dan-enak-200602j.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>312</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>soto</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>34</ymin>
+			<xmax>336</xmax>
+			<ymax>278</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>soto</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>444</xmin>
+			<ymin>74</ymin>
+			<xmax>693</xmax>
+			<ymax>259</ymax>
+		</bndbox>
+	</object>
+</annotation>

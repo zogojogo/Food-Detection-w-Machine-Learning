@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pizza</folder>
+	<filename>2800325.jpg</filename>
+	<path>E:\KULIAH\SEMESTER 8\Program Bangkit\Proyek\Food-Detection-w-Machine-Learning\test\pizza\2800325.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pizza</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>21</xmin>
+			<ymin>17</ymin>
+			<xmax>509</xmax>
+			<ymax>493</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Sate</folder>
+	<filename>68323-instagram-plasa-cake.jpg</filename>
+	<path>E:\KULIAH\SEMESTER 8\Program Bangkit\Proyek\Food-Detection-w-Machine-Learning\train\Sate\68323-instagram-plasa-cake.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>260</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sate</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>14</ymin>
+			<xmax>449</xmax>
+			<ymax>260</ymax>
+		</bndbox>
+	</object>
+</annotation>

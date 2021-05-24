@@ -1,0 +1,26 @@
+<annotation>
+	<folder>spring_rolls</folder>
+	<filename>2776715.jpg</filename>
+	<path>E:\KULIAH\SEMESTER 8\Program Bangkit\Proyek\Food-Detection-w-Machine-Learning\test\spring_rolls\2776715.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>spring_rolls</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>59</xmin>
+			<ymin>129</ymin>
+			<xmax>323</xmax>
+			<ymax>348</ymax>
+		</bndbox>
+	</object>
+</annotation>

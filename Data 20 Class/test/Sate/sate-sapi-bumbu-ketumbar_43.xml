@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Sate</folder>
+	<filename>sate-sapi-bumbu-ketumbar_43.jpeg</filename>
+	<path>E:\KULIAH\SEMESTER 8\Program Bangkit\Proyek\Food-Detection-w-Machine-Learning\test\Sate\sate-sapi-bumbu-ketumbar_43.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>200</width>
+		<height>149</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>34</ymin>
+			<xmax>167</xmax>
+			<ymax>137</ymax>
+		</bndbox>
+	</object>
+</annotation>

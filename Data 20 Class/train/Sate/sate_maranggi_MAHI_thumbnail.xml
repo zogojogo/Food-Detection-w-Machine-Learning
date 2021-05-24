@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Sate</folder>
+	<filename>sate_maranggi_MAHI_thumbnail.jpg</filename>
+	<path>E:\KULIAH\SEMESTER 8\Program Bangkit\Proyek\Food-Detection-w-Machine-Learning\train\Sate\sate_maranggi_MAHI_thumbnail.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sate</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>25</ymin>
+			<xmax>1726</xmax>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+</annotation>

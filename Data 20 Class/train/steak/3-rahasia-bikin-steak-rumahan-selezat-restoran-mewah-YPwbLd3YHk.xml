@@ -1,0 +1,26 @@
+<annotation>
+	<folder>steak</folder>
+	<filename>3-rahasia-bikin-steak-rumahan-selezat-restoran-mewah-YPwbLd3YHk.jpeg</filename>
+	<path>E:\KULIAH\SEMESTER 8\Program Bangkit\Proyek\Food-Detection-w-Machine-Learning\train\steak\3-rahasia-bikin-steak-rumahan-selezat-restoran-mewah-YPwbLd3YHk.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>steak</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>7</ymin>
+			<xmax>800</xmax>
+			<ymax>589</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Soto</folder>
+	<filename>7-cara-membuat-soto-ayam-kuning-lezat-dan-menggiurkan-ala-rumahan.jpg</filename>
+	<path>E:\KULIAH\SEMESTER 8\Program Bangkit\Proyek\Food-Detection-w-Machine-Learning\train\Soto\7-cara-membuat-soto-ayam-kuning-lezat-dan-menggiurkan-ala-rumahan.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>541</width>
+		<height>270</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>soto</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>40</xmin>
+			<ymin>2</ymin>
+			<xmax>491</xmax>
+			<ymax>270</ymax>
+		</bndbox>
+	</object>
+</annotation>

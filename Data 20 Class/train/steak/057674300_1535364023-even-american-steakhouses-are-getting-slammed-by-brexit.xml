@@ -1,0 +1,26 @@
+<annotation>
+	<folder>steak</folder>
+	<filename>057674300_1535364023-even-american-steakhouses-are-getting-slammed-by-brexit.jpg</filename>
+	<path>E:\KULIAH\SEMESTER 8\Program Bangkit\Proyek\Food-Detection-w-Machine-Learning\train\steak\057674300_1535364023-even-american-steakhouses-are-getting-slammed-by-brexit.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>673</width>
+		<height>379</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>steak</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>670</xmax>
+			<ymax>379</ymax>
+		</bndbox>
+	</object>
+</annotation>
