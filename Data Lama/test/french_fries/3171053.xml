@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>french_fries</folder>
+	<filename>3171053.jpg</filename>
+	<path>C:\Users\KristianW\Bangkit\Capstone\Food-Detection-w-Machine-Learning\test\french_fries\3171053.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>289</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>french_fries</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>68</xmin>
+			<ymin>180</ymin>
+			<xmax>223</xmax>
+			<ymax>322</ymax>
+		</bndbox>
+	</object>
+</annotation>

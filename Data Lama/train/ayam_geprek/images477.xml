@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ayam_geprek</folder>
+	<filename>images477.jpg</filename>
+	<path>C:\Users\KristianW\Bangkit\Capstone\Food-Detection-w-Machine-Learning\train\ayam_geprek\images477.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ayam_geprek</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>73</xmin>
+			<ymin>15</ymin>
+			<xmax>239</xmax>
+			<ymax>141</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>chicken_wings</folder>
+	<filename>2778702.jpg</filename>
+	<path>C:\Users\KristianW\Bangkit\Capstone\Food-Detection-w-Machine-Learning\test\chicken_wings\2778702.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chicken_wings</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>184</xmin>
+			<ymin>21</ymin>
+			<xmax>512</xmax>
+			<ymax>405</ymax>
+		</bndbox>
+	</object>
+</annotation>

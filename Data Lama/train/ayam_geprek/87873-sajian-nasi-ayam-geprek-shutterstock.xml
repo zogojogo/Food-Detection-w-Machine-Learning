@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ayam_geprek</folder>
+	<filename>87873-sajian-nasi-ayam-geprek-shutterstock.jpg</filename>
+	<path>C:\Users\KristianW\Bangkit\Capstone\Food-Detection-w-Machine-Learning\train\ayam_geprek\87873-sajian-nasi-ayam-geprek-shutterstock.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>970</width>
+		<height>544</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ayam_geprek</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>110</xmin>
+			<ymin>92</ymin>
+			<xmax>867</xmax>
+			<ymax>539</ymax>
+		</bndbox>
+	</object>
+</annotation>

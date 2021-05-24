@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>bakso</folder>
+	<filename>images613.jpg</filename>
+	<path>C:\Users\KristianW\Bangkit\Capstone\Food-Detection-w-Machine-Learning\test\bakso\images613.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>311</width>
+		<height>162</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bakso</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>22</ymin>
+			<xmax>209</xmax>
+			<ymax>162</ymax>
+		</bndbox>
+	</object>
+</annotation>

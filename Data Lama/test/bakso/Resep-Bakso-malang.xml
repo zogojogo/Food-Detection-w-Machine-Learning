@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>bakso</folder>
+	<filename>Resep-Bakso-malang.jpg</filename>
+	<path>C:\Users\KristianW\Bangkit\Capstone\Food-Detection-w-Machine-Learning\test\bakso\Resep-Bakso-malang.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2662</width>
+		<height>1942</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bakso</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>298</xmin>
+			<ymin>467</ymin>
+			<xmax>2493</xmax>
+			<ymax>1691</ymax>
+		</bndbox>
+	</object>
+</annotation>

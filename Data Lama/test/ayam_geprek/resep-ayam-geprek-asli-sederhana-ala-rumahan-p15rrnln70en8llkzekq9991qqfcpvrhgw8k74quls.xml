@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>ayam_geprek</folder>
+	<filename>resep-ayam-geprek-asli-sederhana-ala-rumahan-p15rrnln70en8llkzekq9991qqfcpvrhgw8k74quls.jpg</filename>
+	<path>C:\Users\KristianW\Bangkit\Capstone\Food-Detection-w-Machine-Learning\test\ayam_geprek\resep-ayam-geprek-asli-sederhana-ala-rumahan-p15rrnln70en8llkzekq9991qqfcpvrhgw8k74quls.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ayam_geprek</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>39</ymin>
+			<xmax>574</xmax>
+			<ymax>586</ymax>
+		</bndbox>
+	</object>
+</annotation>

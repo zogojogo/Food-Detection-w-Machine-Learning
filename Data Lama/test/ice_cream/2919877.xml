@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>ice_cream</folder>
+	<filename>2919877.jpg</filename>
+	<path>C:\Users\KristianW\Bangkit\Capstone\Food-Detection-w-Machine-Learning\test\ice_cream\2919877.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ice_cream</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>55</ymin>
+			<xmax>506</xmax>
+			<ymax>499</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>fried_rice</folder>
+	<filename>2984337.jpg</filename>
+	<path>C:\Users\KristianW\Bangkit\Capstone\Food-Detection-w-Machine-Learning\test\fried_rice\2984337.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>288</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fried_rice</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>59</xmin>
+			<ymin>20</ymin>
+			<xmax>451</xmax>
+			<ymax>253</ymax>
+		</bndbox>
+	</object>
+</annotation>

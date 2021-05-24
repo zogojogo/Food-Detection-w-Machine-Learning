@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>ayam_geprek</folder>
+	<filename>Resep-ayam-geprek-untuk-jualan.jpg</filename>
+	<path>C:\Users\KristianW\Bangkit\Capstone\Food-Detection-w-Machine-Learning\test\ayam_geprek\Resep-ayam-geprek-untuk-jualan.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>550</width>
+		<height>366</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ayam_geprek</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>119</xmin>
+			<ymin>20</ymin>
+			<xmax>451</xmax>
+			<ymax>346</ymax>
+		</bndbox>
+	</object>
+</annotation>
