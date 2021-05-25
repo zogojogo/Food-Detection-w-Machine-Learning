@@ -1,0 +1,50 @@
+item {
+    name: "ayam_geprek",
+    id: 1,
+    display_name: "ayam_geprek"
+}
+item {
+    name: "bakso",
+    id: 2,
+    display_name: "bakso"
+}
+item {
+    name: "cheesecake",
+    id: 3,
+    display_name: "cheesecake"
+}
+item {
+    name: "chicken_curry",
+    id: 4,
+    display_name: "chicken_curry"
+}
+item {
+    name: "chicken_wings",
+    id: 5,
+    display_name: "chicken_wings"
+}
+item {
+    name: "chocolate_cake",
+    id: 6,
+    display_name: "chocolate_cake"
+}
+item {
+    name: "churros",
+    id: 7,
+    display_name: "churros"
+}
+item {
+    name: "cup_cakes",
+    id: 8,
+    display_name: "cup_cakes"
+}
+item {
+    name: "donuts",
+    id: 9,
+    display_name: "donuts"
+}
+item {
+    name: "dumplings",
+    id: 10,
+    display_name: "dumplings"
+}
