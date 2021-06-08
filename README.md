@@ -4,7 +4,7 @@ This is the implementation Machine Learning in the Food Detection feature of Hea
 
 1. First you can find the public dataset available at Kaggle (https://www.kaggle.com/kmader/food41)
 2. We do cleaning the data locally so we reduce the size of the dataset to 200 train data and 50 validation data for each class and we also only use 20 class for the sake of time efficiency. This is just prototype so after this maybe we could train it on bigger dataset.
-3. For the preprocessing until export the model you can see the complete code in here Food_Detection_w_Food101_datasets.ipynb
+3. For the preprocessing until export the model you can see the complete code in here https://github.com/zogojogo/Food-Detection-w-Machine-Learning/blob/main/Food_Detection_w_Food101_datasets.ipynb
 4. For the preprocessing steps, we use Image Data Generator provided by Tensorflow to preprocess the image. Including data augmentation, rescale to 0-1, resize, and create the data that will be feed into the model.fit
 5. Create the model using Sequential layers from Keras API and with the base model we use Inception V3 from tensorflow applications module or you can find it by yourself because that model is available online.
 6. Train the model with model.fit, actually I use 25 epochs just because at that time we are running out of time. But I suggest you could use 80 epochs for the best performance.
