@@ -3,10 +3,15 @@
 This is the implementation Machine Learning in the Food Detection feature of Health Inspector Application from Eunoia-Bangkit Capstone Project. Shortly we use transfer learning method with Inception V3 as the base model, and then the base model feed into our own neural network. But before we explain the steps for the MLOps, we provide the link of Android Repository, Cloud Repository, Slide Presentation, Presentation Video, and Demo Application Video.
 
 Android : https://github.com/lukifenca/CapstoneProject
+
 Cloud : https://github.com/melvern03/eunoia_final
+
 Slide : https://docs.google.com/presentation/d/1x9nOH1vjMlMPFT82UvqW9i5YWj4ut1cZxMD-REFIoNw/edit?usp=sharing
+
 Presentation : https://youtu.be/rLsUw9X5q5E
+
 Demo : https://youtu.be/z1gU14wepFc
+
 
 1. First you can find the public dataset available at Kaggle (https://www.kaggle.com/kmader/food41)
 2. We do cleaning the data locally so we reduce the size of the dataset to 200 train data and 50 validation data for each class and we also only use 20 class for the sake of time efficiency. This is just prototype so after this maybe we could train it on bigger dataset.
